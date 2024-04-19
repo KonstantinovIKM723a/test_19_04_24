@@ -1,7 +1,7 @@
 ﻿#include <iostream>;
 #include "windows.h";
 #include <string>;
-# include "test_19_04_24.h";
+#include "test_19_04_24.h";
 using namespace std;
 
 int main() {
